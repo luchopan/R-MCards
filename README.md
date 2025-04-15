@@ -19,8 +19,7 @@ PagR&M
 │   │   └── styles.css       # Estilos CSS
 │   └── js
 │       └── script.js        # Lógica de interactividad y consumo de API
-├── README.md                # Documentación del proyecto
-└── Actividad.txt            # Requerimientos del proyecto
+└── README.md                # Documentación del proyecto
 ```
 
 ## Instalación
