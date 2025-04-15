@@ -48,5 +48,5 @@ PagR&M
 
 ## Créditos
 
-- **Desarrolladores**: Lucho y equipo.
+- **Desarrolladores**: Lucho y M Camila.
 - **API utilizada**: [Rick and Morty API](https://rickandmortyapi.com/).
