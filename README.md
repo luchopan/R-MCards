@@ -26,7 +26,7 @@ PagR&M
 
 1. Clona este repositorio en tu máquina local:
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone https://github.com/luchopan/R-MCards
    ```
 2. Navega al directorio del proyecto:
    ```bash
